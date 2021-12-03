@@ -1,0 +1,10 @@
+D:\Studia\Zad_2_forms\Zad_2_forms\bin\Debug\Zad_2_forms.exe.config
+D:\Studia\Zad_2_forms\Zad_2_forms\bin\Debug\Zad_2_forms.exe
+D:\Studia\Zad_2_forms\Zad_2_forms\bin\Debug\Zad_2_forms.pdb
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.csproj.AssemblyReference.cache
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.Form1.resources
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.Properties.Resources.resources
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.csproj.GenerateResource.cache
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.csproj.CoreCompileInputs.cache
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.exe
+D:\Studia\Zad_2_forms\Zad_2_forms\obj\Debug\Zad_2_forms.pdb
