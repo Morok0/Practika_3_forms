@@ -1,0 +1,10 @@
+D:\Studia\Zad_3_forms\Zad_3_forms\bin\Debug\Zad_3_forms.exe.config
+D:\Studia\Zad_3_forms\Zad_3_forms\bin\Debug\Zad_3_forms.exe
+D:\Studia\Zad_3_forms\Zad_3_forms\bin\Debug\Zad_3_forms.pdb
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.csproj.AssemblyReference.cache
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.Form1.resources
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.Properties.Resources.resources
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.csproj.GenerateResource.cache
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.csproj.CoreCompileInputs.cache
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.exe
+D:\Studia\Zad_3_forms\Zad_3_forms\obj\Debug\Zad_3_forms.pdb
